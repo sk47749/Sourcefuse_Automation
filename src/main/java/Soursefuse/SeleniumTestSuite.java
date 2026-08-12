@@ -14,6 +14,7 @@ import java.util.List;
 public class SeleniumTestSuite 
 {
     We added something here.
+    Again we added this in this file.
     WebDriver driver;
 
     @BeforeClass
